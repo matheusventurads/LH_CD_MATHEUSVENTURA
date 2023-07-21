@@ -9,6 +9,9 @@ python -m pip install -r requirements.txt
 ```
 4. Com o arquivo na pasta `data/raw` com o nome `cars_test.csv`
 5. Execute o arquivo `run.py`
+```
+python run.py
+```
    * Após isso, é esperado que na pasta `data/processed` o arquivo `predicted.csv` contendo id e preço dos carros, seja criado
 
 ## Estrutura
